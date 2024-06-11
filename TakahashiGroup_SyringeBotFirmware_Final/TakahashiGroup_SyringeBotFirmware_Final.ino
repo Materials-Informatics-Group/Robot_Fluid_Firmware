@@ -1,6 +1,6 @@
 /*
 =====================================================================
-Takahashi Group Syringe Bot Firmware
+Takahashi Group Syringe Bot Firmware: FLUID
 TakahashiGroup_SyringeBotFirmware_variant1.ino
 Written by Micke Nicander Kuwahara
 =====================================================================
